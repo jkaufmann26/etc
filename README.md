@@ -1,2 +1,4 @@
 # etc
-etc files from setups to junk
+PLACE TO DUMP STUFF:
+vimrc
+tmuxconf

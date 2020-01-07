@@ -1,6 +1,6 @@
 # etc
 ## SETUP:
-```
+
 - vimrc
   - Command: vim ~/.vimrc
   - [Vundle](https://github.com/VundleVim/Vundle.vim)
@@ -13,5 +13,5 @@
 - [iTerm2](https://www.iterm2.com/downloads.html)
     -Settings
 
-```
+
 ## JUNK:

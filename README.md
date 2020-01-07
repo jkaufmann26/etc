@@ -1,4 +1,4 @@
 # etc
-PLACE TO DUMP STUFF:
-vimrc
-tmuxconf
+## PLACE TO DUMP STUFF:
+- vimrc
+- tmuxconf

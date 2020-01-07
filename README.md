@@ -1,4 +1,6 @@
 # etc
-## PLACE TO DUMP STUFF:
+## LIST OF JUNK:
+```
 - vimrc
 - tmuxconf
+```

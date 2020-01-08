@@ -1,4 +1,4 @@
-# :floppy_disk: etc :floppy_disk:
+# :floppy_disk: etc
 ## 🔩SETUP🔩:
 
 - vimrc

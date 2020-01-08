@@ -1,5 +1,5 @@
-# etc
-## 🔩 SETUP 🔩:
+# :floppy_disk: etc :floppy_disk:
+## 🔩SETUP🔩:
 
 - vimrc
   - Command: vim ~/.vimrc
@@ -13,8 +13,8 @@
 - [iTerm2](https://www.iterm2.com/downloads.html)
 - HomeBrew: `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
 
-##  🔧USEFUL TOOLS 🔧:
+##  🔧USEFUL TOOLS🔧:
 - (SourceTree)[https://www.sourcetreeapp.com/]
 - (Postman)[https://www.getpostman.com/downloads/]
 
-## JUNK:
+## 🚽JUNK🚽:

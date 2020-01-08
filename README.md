@@ -14,7 +14,7 @@
 - HomeBrew: `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
 
 ##  🔧USEFUL TOOLS🔧:
-- (SourceTree)[https://www.sourcetreeapp.com/]
-- (Postman)[https://www.getpostman.com/downloads/]
+- [SourceTree](https://www.sourcetreeapp.com/)
+- [Postman](https://www.getpostman.com/downloads/)
 
 ## 🚽JUNK🚽:
